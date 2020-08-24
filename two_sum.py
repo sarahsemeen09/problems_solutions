@@ -14,14 +14,14 @@ def two_sum(nums, target):
         req_element = target - element
 		
         #if difference b/w element in array and target is not
-		#present, then saving the index of the element in the 
-		#dictionary req_dict
+	#present, then saving the index of the element in the 
+	#dictionary req_dict
 		
         if req_element not in req_dict:
             req_dict[element] = index
 		
         #if difference is present in the dictionary then, 
-		#returning index saved in req_dict and current index		
+	#returning index saved in req_dict and current index		
         else:
             return [req_dict[req_element], index]
 
