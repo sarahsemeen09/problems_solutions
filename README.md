@@ -2,7 +2,7 @@
 Solving simple to complex problems, with time and space efficiency using OOP and appropriate data structures
 
 **This repository contains common use case problems and their solution in python. Each problem has a unique python file associated with it and labeled accordingly.** 
-
+# List of problems
 - *Linked List Sum Problem*: Given two linked lists of numbers, with digits stored in reverse order, add the two numbers in the real order and return the solution as a linked list in reverse order 
 - *Longest Substring without repeating characters*: Given a string, find the length of the longest substring without repeating characters.
 - *The two sum problem*: Given an array of integers, returning indices of the two numbers such that they add up to a specified target
